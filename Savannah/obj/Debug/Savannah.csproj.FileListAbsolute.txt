@@ -1,0 +1,7 @@
+C:\Users\r.logina\Desktop\VSProjects\Savannah\Savannah\bin\Debug\Savannah.exe.config
+C:\Users\r.logina\Desktop\VSProjects\Savannah\Savannah\bin\Debug\Savannah.exe
+C:\Users\r.logina\Desktop\VSProjects\Savannah\Savannah\bin\Debug\Savannah.pdb
+C:\Users\r.logina\Desktop\VSProjects\Savannah\Savannah\obj\Debug\Savannah.csproj.CoreCompileInputs.cache
+C:\Users\r.logina\Desktop\VSProjects\Savannah\Savannah\obj\Debug\Savannah.exe
+C:\Users\r.logina\Desktop\VSProjects\Savannah\Savannah\obj\Debug\Savannah.pdb
+C:\Users\r.logina\Desktop\VSProjects\Savannah\Savannah\obj\Debug\Savannah.csprojAssemblyReference.cache
